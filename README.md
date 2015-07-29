@@ -1,8 +1,4 @@
----
-tags: cssi, python, group project, review
-languages: python
-type: group-project
----
+
 
 ### Putting It All Together
  Think about all the basic programming knowledge we've built upon this week (data types, variables, functions, data structures, etc.) We are laying the foundation for our futures as Python developers. Let's challenge that knowledge with a review project.
